@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Compilers Notes"
+  author: "Igor Dimitrov"
+  date: "7/17/2025"
+  chapters:
+    - index.qmd
+    - reading.qmd
+  page-navigation: true
+  downloads: pdf
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+toc-depth: 4
+
+

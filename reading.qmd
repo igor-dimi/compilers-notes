@@ -1,0 +1,35 @@
+---
+title: "Readling List"
+---
+
+
+## Syntax of Programming Languages, Parsing
+
+* An Introduction to Formal Languages and Automata. Linz
+* The Theory of Parsing and Translation. Aho, Ullman.
+* Syntax of Programming Languages - Theory and Practice. Backhouse
+
+
+## General
+
+* 
+* Compilers - Principles, Techniques, and Tools. Aho et al
+* Engineering a Compiler (2022). Cooper, Torczon
+* Introduction to Compiler Construction. Parsons
+* The Theory and Practice of Compiler Writing. Tremblay
+* The Design and Construction of Compilers. Hunter
+* 
+
+## Practical
+
+* Compiler Engineering Using Pascal. Capoon, Jinks
+* Understanding and Writing Compilers - a Do it Yourself Guide. Bornat
+* Introduction to Compilers and Language Design. Douglas Thain
+* Compiler Building Tutorial - Let's Build a Compiler. Crenshaw
+* Implementing Programming Languages - An Introduction to Compilers and Interpreters. Aarne Ranta
+* Compiler Construction. Wirth
+* Compiler Design in C. Holub
+* Essential of Compilation - An Incremental Approach in Racket. Siek
+* Crafting Interpreters. Nystrom
+
+
