@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Compilers Notes",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Readling List",
+    "section": "",
+    "text": "1.1 Syntax of Programming Languages, Parsing",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#syntax-of-programming-languages-parsing",
+    "href": "reading.html#syntax-of-programming-languages-parsing",
+    "title": "1  Readling List",
+    "section": "",
+    "text": "An Introduction to Formal Languages and Automata. Linz\nThe Theory of Parsing and Translation. Aho, Ullman.\nSyntax of Programming Languages - Theory and Practice. Backhouse",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#general",
+    "href": "reading.html#general",
+    "title": "1  Readling List",
+    "section": "1.2 General",
+    "text": "1.2 General\n\n\nCompilers - Principles, Techniques, and Tools. Aho et al\nEngineering a Compiler (2022). Cooper, Torczon\nIntroduction to Compiler Construction. Parsons\nThe Theory and Practice of Compiler Writing. Tremblay\nThe Design and Construction of Compilers. Hunter",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#practical",
+    "href": "reading.html#practical",
+    "title": "1  Readling List",
+    "section": "1.3 Practical",
+    "text": "1.3 Practical\n\nCompiler Engineering Using Pascal. Capoon, Jinks\nUnderstanding and Writing Compilers - a Do it Yourself Guide. Bornat\nIntroduction to Compilers and Language Design. Douglas Thain\nCompiler Building Tutorial - Let’s Build a Compiler. Crenshaw\nImplementing Programming Languages - An Introduction to Compilers and Interpreters. Aarne Ranta\nCompiler Construction. Wirth\nCompiler Design in C. Holub\nEssential of Compilation - An Incremental Approach in Racket. Siek\nCrafting Interpreters. Nystrom",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  }
+]
